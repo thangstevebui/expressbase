@@ -1,8 +1,0 @@
-export enum REQUEST_PAYLOAD_TYPE {
-  BODY = 'BODY',
-  PARAMS = 'PARAMS',
-  QUERY = 'QUERY',
-  HEADERS = 'HEADERS',
-  COOKIES = 'COOKIES',
-  NONE = 'NONE',
-}
